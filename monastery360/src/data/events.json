@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Losar (Tibetan New Year)",
+    "date": "2024-02-10",
+    "endDate": "2024-02-12",
+    "description": "The most important festival in Sikkim, celebrating the Tibetan New Year with traditional dances, prayers, and feasts.",
+    "location": "All Monasteries",
+    "type": "Religious Festival",
+    "participants": "Open to all",
+    "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&h=600&fit=crop",
+    "highlights": ["Traditional Dances", "Prayer Ceremonies", "Community Feasts", "Cultural Performances"]
+  },
+  {
+    "id": 2,
+    "title": "Saga Dawa",
+    "date": "2024-05-23",
+    "endDate": "2024-05-25",
+    "description": "A sacred month celebrating Buddha's birth, enlightenment, and parinirvana. Pilgrims walk around sacred sites.",
+    "location": "Tashiding Monastery",
+    "type": "Religious Festival",
+    "participants": "Open to all",
+    "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&h=600&fit=crop",
+    "highlights": ["Pilgrimage Walks", "Prayer Ceremonies", "Butter Lamp Offerings", "Community Service"]
+  },
+  {
+    "id": 3,
+    "title": "Bumchu Festival",
+    "date": "2024-03-15",
+    "endDate": "2024-03-17",
+    "description": "A unique festival at Tashiding Monastery where sacred water is distributed to predict the year's fortune.",
+    "location": "Tashiding Monastery",
+    "type": "Religious Festival",
+    "participants": "Open to all",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+    "highlights": ["Sacred Water Ceremony", "Fortune Telling", "Traditional Rituals", "Community Gathering"]
+  },
+  {
+    "id": 4,
+    "title": "Chaam Dance Festival",
+    "date": "2024-12-15",
+    "endDate": "2024-12-17",
+    "description": "Traditional masked dance performances at Enchey Monastery, showcasing Buddhist teachings through dance.",
+    "location": "Enchey Monastery",
+    "type": "Cultural Festival",
+    "participants": "Open to all",
+    "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&h=600&fit=crop",
+    "highlights": ["Masked Dances", "Traditional Music", "Cultural Performances", "Community Celebration"]
+  },
+  {
+    "id": 5,
+    "title": "Guru Rinpoche Day",
+    "date": "2024-07-10",
+    "endDate": "2024-07-10",
+    "description": "Celebration of Guru Padmasambhava's birthday with special prayers and ceremonies across all monasteries.",
+    "location": "All Monasteries",
+    "type": "Religious Festival",
+    "participants": "Open to all",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+    "highlights": ["Special Prayers", "Butter Lamp Offerings", "Community Gatherings", "Spiritual Teachings"]
+  },
+  {
+    "id": 6,
+    "title": "Tsechu Festival",
+    "date": "2024-09-20",
+    "endDate": "2024-09-22",
+    "description": "A three-day festival at Pemayangtse Monastery featuring traditional dances and religious ceremonies.",
+    "location": "Pemayangtse Monastery",
+    "type": "Religious Festival",
+    "participants": "Open to all",
+    "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&h=600&fit=crop",
+    "highlights": ["Traditional Dances", "Religious Ceremonies", "Community Feasts", "Cultural Exchange"]
+  }
+]

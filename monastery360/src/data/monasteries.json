@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Rumtek Monastery",
+    "location": "Gangtok, East Sikkim",
+    "coordinates": {
+      "lat": 27.3000,
+      "lng": 88.6000
+    },
+    "description": "The largest monastery in Sikkim and the seat of the Karmapa lineage. Known for its stunning architecture and spiritual significance.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+    "panoramicUrl": "https://example.com/panoramic/rumtek",
+    "established": "1960s",
+    "significance": "Seat of the Karmapa lineage",
+    "features": ["Golden Stupa", "Prayer Hall", "Monk Quarters", "Library"],
+    "visitingHours": "6:00 AM - 6:00 PM",
+    "festivals": ["Losar", "Saga Dawa", "Guru Rinpoche Day"]
+  },
+  {
+    "id": 2,
+    "name": "Pemayangtse Monastery",
+    "location": "Pelling, West Sikkim",
+    "coordinates": {
+      "lat": 27.2833,
+      "lng": 88.2167
+    },
+    "description": "One of the oldest monasteries in Sikkim, founded in 1705. Known for its ancient murals and traditional architecture.",
+    "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&h=600&fit=crop",
+    "panoramicUrl": "https://example.com/panoramic/pemayangtse",
+    "established": "1705",
+    "significance": "Oldest monastery in Sikkim",
+    "features": ["Ancient Murals", "Prayer Wheels", "Stupa", "Museum"],
+    "visitingHours": "6:00 AM - 6:00 PM",
+    "festivals": ["Tsechu", "Losar", "Guru Rinpoche Day"]
+  },
+  {
+    "id": 3,
+    "name": "Tashiding Monastery",
+    "location": "Tashiding, West Sikkim",
+    "coordinates": {
+      "lat": 27.3167,
+      "lng": 88.2500
+    },
+    "description": "A sacred monastery known for its annual Bumchu ceremony and stunning mountain views.",
+    "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&h=600&fit=crop",
+    "panoramicUrl": "https://example.com/panoramic/tashiding",
+    "established": "1641",
+    "significance": "Sacred Bumchu ceremony site",
+    "features": ["Sacred Water Ceremony", "Prayer Flags", "Stupa", "Mountain Views"],
+    "visitingHours": "6:00 AM - 6:00 PM",
+    "festivals": ["Bumchu", "Losar", "Saga Dawa"]
+  },
+  {
+    "id": 4,
+    "name": "Enchey Monastery",
+    "location": "Gangtok, East Sikkim",
+    "coordinates": {
+      "lat": 27.3333,
+      "lng": 88.6167
+    },
+    "description": "A beautiful monastery in Gangtok known for its annual Chaam dance and peaceful surroundings.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+    "panoramicUrl": "https://example.com/panoramic/enchey",
+    "established": "1909",
+    "significance": "Chaam dance performances",
+    "features": ["Chaam Dance", "Prayer Hall", "Stupa", "Garden"],
+    "visitingHours": "6:00 AM - 6:00 PM",
+    "festivals": ["Chaam Dance", "Losar", "Guru Rinpoche Day"]
+  },
+  {
+    "id": 5,
+    "name": "Dubdi Monastery",
+    "location": "Yuksom, West Sikkim",
+    "coordinates": {
+      "lat": 27.3667,
+      "lng": 88.2167
+    },
+    "description": "The oldest monastery in Sikkim, established in 1701. Located on a hilltop with panoramic views.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+    "panoramicUrl": "https://example.com/panoramic/dubdi",
+    "established": "1701",
+    "significance": "First monastery in Sikkim",
+    "features": ["Historic Architecture", "Panoramic Views", "Prayer Hall", "Ancient Texts"],
+    "visitingHours": "6:00 AM - 6:00 PM",
+    "festivals": ["Losar", "Saga Dawa", "Guru Rinpoche Day"]
+  },
+  {
+    "id": 6,
+    "name": "Phodong Monastery",
+    "location": "Mangan, North Sikkim",
+    "coordinates": {
+      "lat": 27.5167,
+      "lng": 88.5333
+    },
+    "description": "A beautiful monastery in North Sikkim known for its traditional architecture and peaceful atmosphere.",
+    "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&h=600&fit=crop",
+    "panoramicUrl": "https://example.com/panoramic/phodong",
+    "established": "1740",
+    "significance": "Traditional Nyingma monastery",
+    "features": ["Traditional Architecture", "Prayer Hall", "Stupa", "Monk Quarters"],
+    "visitingHours": "6:00 AM - 6:00 PM",
+    "festivals": ["Losar", "Saga Dawa", "Guru Rinpoche Day"]
+  }
+]

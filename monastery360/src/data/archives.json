@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Ancient Thangka Paintings",
+    "category": "Art",
+    "description": "Collection of traditional Tibetan Buddhist scroll paintings depicting various deities and religious scenes.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+    "date": "17th-19th Century",
+    "monastery": "Pemayangtse Monastery",
+    "significance": "Rare collection of traditional thangka art",
+    "tags": ["thangka", "buddhist art", "paintings", "religious"],
+    "status": "Digitized"
+  },
+  {
+    "id": 2,
+    "title": "Sacred Manuscripts",
+    "category": "Literature",
+    "description": "Ancient Buddhist texts and scriptures written in Tibetan script, including teachings and prayers.",
+    "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&h=600&fit=crop",
+    "date": "16th-18th Century",
+    "monastery": "Rumtek Monastery",
+    "significance": "Preserved ancient Buddhist teachings",
+    "tags": ["manuscripts", "buddhist texts", "tibetan script", "teachings"],
+    "status": "Digitized"
+  },
+  {
+    "id": 3,
+    "title": "Monastery Architecture Plans",
+    "category": "Architecture",
+    "description": "Original architectural drawings and plans of various monasteries showing traditional building techniques.",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+    "date": "18th-20th Century",
+    "monastery": "Multiple Monasteries",
+    "significance": "Historical architectural documentation",
+    "tags": ["architecture", "plans", "traditional building", "history"],
+    "status": "Digitized"
+  },
+  {
+    "id": 4,
+    "title": "Ritual Objects Collection",
+    "category": "Artifacts",
+    "description": "Collection of traditional ritual objects including prayer wheels, bells, and ceremonial items.",
+    "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&h=600&fit=crop",
+    "date": "Various Periods",
+    "monastery": "Tashiding Monastery",
+    "significance": "Traditional ritual implements",
+    "tags": ["ritual objects", "prayer wheels", "ceremonial items", "artifacts"],
+    "status": "Digitized"
+  },
+  {
+    "id": 5,
+    "title": "Historical Photographs",
+    "category": "Photography",
+    "description": "Rare photographs documenting the history and evolution of monasteries in Sikkim over the decades.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+    "date": "1900-1980",
+    "monastery": "All Monasteries",
+    "significance": "Historical documentation of monastery evolution",
+    "tags": ["photography", "history", "monasteries", "documentation"],
+    "status": "Digitized"
+  },
+  {
+    "id": 6,
+    "title": "Musical Instruments",
+    "category": "Music",
+    "description": "Traditional Tibetan musical instruments used in religious ceremonies and cultural performances.",
+    "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&h=600&fit=crop",
+    "date": "19th-20th Century",
+    "monastery": "Enchey Monastery",
+    "significance": "Traditional musical heritage",
+    "tags": ["musical instruments", "tibetan music", "ceremonial music", "culture"],
+    "status": "Digitized"
+  },
+  {
+    "id": 7,
+    "title": "Festival Documentation",
+    "category": "Documentation",
+    "description": "Records and documentation of traditional festivals and ceremonies held at various monasteries.",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+    "date": "1950-2020",
+    "monastery": "All Monasteries",
+    "significance": "Cultural festival documentation",
+    "tags": ["festivals", "ceremonies", "documentation", "culture"],
+    "status": "Digitized"
+  },
+  {
+    "id": 8,
+    "title": "Monk Biographies",
+    "category": "Literature",
+    "description": "Biographical records and teachings of important monks and spiritual leaders from Sikkim's monasteries.",
+    "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&h=600&fit=crop",
+    "date": "Various Periods",
+    "monastery": "Multiple Monasteries",
+    "significance": "Spiritual leadership documentation",
+    "tags": ["biographies", "monks", "spiritual leaders", "teachings"],
+    "status": "Digitized"
+  }
+]
